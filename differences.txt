@@ -1,0 +1,4 @@
+authentication:user logs in with the same username and password is correct
+authorization:its the same user logged in you can use sessions which uses cookies,jwt uses tokens
+
+we store user information on the client,while in the old cookie session we store on the browser
